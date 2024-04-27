@@ -1,4 +1,4 @@
-package ScreenPLay.UserInterface;
+package ScreenPlay.UserInterface;
 
 import org.openqa.selenium.By;
 

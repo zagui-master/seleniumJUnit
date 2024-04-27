@@ -1,4 +1,4 @@
-package ScreenPLay.Actions;
+package ScreenPlay.Actions;
 
 import org.openqa.selenium.By;
 import utils.BasePage;

@@ -1,7 +1,7 @@
-package ScreenPLay.Test;
+package ScreenPlay.Test;
 
-import ScreenPLay.DriverManager.DriverManager;
-import ScreenPLay.Tasks.SingUp;
+import ScreenPlay.DriverManager.DriverManager;
+import ScreenPlay.Tasks.SingUp;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

@@ -1,8 +1,8 @@
-package ScreenPLay.Tasks;
+package ScreenPlay.Tasks;
 
-import ScreenPLay.Actions.Click;
-import ScreenPLay.Actions.Enter;
-import ScreenPLay.UserInterface.SingUpUI;
+import ScreenPlay.Actions.Click;
+import ScreenPlay.Actions.Enter;
+import ScreenPlay.UserInterface.SingUpUI;
 
 public class SingUp {
     public static void newUser() {

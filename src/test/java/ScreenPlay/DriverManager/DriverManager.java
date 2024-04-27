@@ -1,4 +1,4 @@
-package ScreenPLay.DriverManager;
+package ScreenPlay.DriverManager;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
